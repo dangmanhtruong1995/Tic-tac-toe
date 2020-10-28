@@ -4,4 +4,4 @@ Some Tic-tac-toe code I wrote while reading the book
 
 I thought that I could make a simple AI that plays the Gomoku game. 
 
-But later on I got lazy.        
+But later on I got lazy. Shame on me :(         
